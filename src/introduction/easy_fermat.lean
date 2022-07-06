@@ -1,3 +1,5 @@
+import data.nat.basic
+
 def x := 2 + 2                                  -- a natural number
 def f (x : ℕ) := x + 3                          -- a function
 def easy_theorem_statement := 2 + 2 = 4         -- a proposition
